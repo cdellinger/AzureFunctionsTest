@@ -1,0 +1,8 @@
+{
+  "name": "AzureFunctionTest",
+  "version": "0.0.0",
+  "dependencies": {
+    "feedparser": "^1.1.4",
+    "request": "^2.61.0"
+  }
+}
